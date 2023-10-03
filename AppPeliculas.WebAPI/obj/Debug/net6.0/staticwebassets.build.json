@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "CX7164gzpmKK3p+d6n3RSgUaU28K2ITgcCEbPZrUiFg=",
+  "Source": "AppPeliculas.WebAPI",
+  "BasePath": "_content/AppPeliculas.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

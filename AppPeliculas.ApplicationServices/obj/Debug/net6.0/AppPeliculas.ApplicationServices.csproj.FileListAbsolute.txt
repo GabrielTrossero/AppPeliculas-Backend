@@ -1,0 +1,15 @@
+D:\Gabi\Cursos\Angular + .NET\AppPeliculas\AppPeliculas.ApplicationServices\bin\Debug\net6.0\AppPeliculas.ApplicationServices.deps.json
+D:\Gabi\Cursos\Angular + .NET\AppPeliculas\AppPeliculas.ApplicationServices\bin\Debug\net6.0\AppPeliculas.ApplicationServices.dll
+D:\Gabi\Cursos\Angular + .NET\AppPeliculas\AppPeliculas.ApplicationServices\bin\Debug\net6.0\AppPeliculas.ApplicationServices.pdb
+D:\Gabi\Cursos\Angular + .NET\AppPeliculas\AppPeliculas.ApplicationServices\bin\Debug\net6.0\AppPeliculas.Model.dll
+D:\Gabi\Cursos\Angular + .NET\AppPeliculas\AppPeliculas.ApplicationServices\bin\Debug\net6.0\AppPeliculas.Model.pdb
+D:\Gabi\Cursos\Angular + .NET\AppPeliculas\AppPeliculas.ApplicationServices\obj\Debug\net6.0\AppPeliculas.ApplicationServices.csproj.AssemblyReference.cache
+D:\Gabi\Cursos\Angular + .NET\AppPeliculas\AppPeliculas.ApplicationServices\obj\Debug\net6.0\AppPeliculas.ApplicationServices.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gabi\Cursos\Angular + .NET\AppPeliculas\AppPeliculas.ApplicationServices\obj\Debug\net6.0\AppPeliculas.ApplicationServices.AssemblyInfoInputs.cache
+D:\Gabi\Cursos\Angular + .NET\AppPeliculas\AppPeliculas.ApplicationServices\obj\Debug\net6.0\AppPeliculas.ApplicationServices.AssemblyInfo.cs
+D:\Gabi\Cursos\Angular + .NET\AppPeliculas\AppPeliculas.ApplicationServices\obj\Debug\net6.0\AppPeliculas.ApplicationServices.csproj.CoreCompileInputs.cache
+D:\Gabi\Cursos\Angular + .NET\AppPeliculas\AppPeliculas.ApplicationServices\obj\Debug\net6.0\AppPeliculas.ApplicationServices.csproj.CopyComplete
+D:\Gabi\Cursos\Angular + .NET\AppPeliculas\AppPeliculas.ApplicationServices\obj\Debug\net6.0\AppPeliculas.ApplicationServices.dll
+D:\Gabi\Cursos\Angular + .NET\AppPeliculas\AppPeliculas.ApplicationServices\obj\Debug\net6.0\refint\AppPeliculas.ApplicationServices.dll
+D:\Gabi\Cursos\Angular + .NET\AppPeliculas\AppPeliculas.ApplicationServices\obj\Debug\net6.0\AppPeliculas.ApplicationServices.pdb
+D:\Gabi\Cursos\Angular + .NET\AppPeliculas\AppPeliculas.ApplicationServices\obj\Debug\net6.0\ref\AppPeliculas.ApplicationServices.dll

@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\AppPeliculas.ApplicationServices",
+    "\\AppPeliculas.Model",
+    "\\AppPeliculas.WebAPI",
+    "\\AppPeliculas.WebAPI\\Controllers",
+    "\\AppPeliculas.WebUI\\src"
+  ],
+  "SelectedNode": "\\AppPeliculas.WebAPI",
+  "PreviewInSolutionExplorer": false
+}

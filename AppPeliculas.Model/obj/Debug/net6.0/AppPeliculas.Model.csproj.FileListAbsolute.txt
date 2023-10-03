@@ -1,0 +1,12 @@
+D:\Gabi\Cursos\Angular + .NET\AppPeliculas\AppPeliculas.Model\bin\Debug\net6.0\AppPeliculas.Model.deps.json
+D:\Gabi\Cursos\Angular + .NET\AppPeliculas\AppPeliculas.Model\bin\Debug\net6.0\AppPeliculas.Model.dll
+D:\Gabi\Cursos\Angular + .NET\AppPeliculas\AppPeliculas.Model\bin\Debug\net6.0\AppPeliculas.Model.pdb
+D:\Gabi\Cursos\Angular + .NET\AppPeliculas\AppPeliculas.Model\obj\Debug\net6.0\AppPeliculas.Model.csproj.AssemblyReference.cache
+D:\Gabi\Cursos\Angular + .NET\AppPeliculas\AppPeliculas.Model\obj\Debug\net6.0\AppPeliculas.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gabi\Cursos\Angular + .NET\AppPeliculas\AppPeliculas.Model\obj\Debug\net6.0\AppPeliculas.Model.AssemblyInfoInputs.cache
+D:\Gabi\Cursos\Angular + .NET\AppPeliculas\AppPeliculas.Model\obj\Debug\net6.0\AppPeliculas.Model.AssemblyInfo.cs
+D:\Gabi\Cursos\Angular + .NET\AppPeliculas\AppPeliculas.Model\obj\Debug\net6.0\AppPeliculas.Model.csproj.CoreCompileInputs.cache
+D:\Gabi\Cursos\Angular + .NET\AppPeliculas\AppPeliculas.Model\obj\Debug\net6.0\AppPeliculas.Model.dll
+D:\Gabi\Cursos\Angular + .NET\AppPeliculas\AppPeliculas.Model\obj\Debug\net6.0\refint\AppPeliculas.Model.dll
+D:\Gabi\Cursos\Angular + .NET\AppPeliculas\AppPeliculas.Model\obj\Debug\net6.0\AppPeliculas.Model.pdb
+D:\Gabi\Cursos\Angular + .NET\AppPeliculas\AppPeliculas.Model\obj\Debug\net6.0\ref\AppPeliculas.Model.dll

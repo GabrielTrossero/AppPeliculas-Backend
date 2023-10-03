@@ -1,0 +1,15 @@
+D:\Gabi\Cursos\Angular + .NET\AppPeliculas\AppPeliculas.Repository\bin\Debug\net6.0\AppPeliculas.Repository.deps.json
+D:\Gabi\Cursos\Angular + .NET\AppPeliculas\AppPeliculas.Repository\bin\Debug\net6.0\AppPeliculas.Repository.dll
+D:\Gabi\Cursos\Angular + .NET\AppPeliculas\AppPeliculas.Repository\bin\Debug\net6.0\AppPeliculas.Repository.pdb
+D:\Gabi\Cursos\Angular + .NET\AppPeliculas\AppPeliculas.Repository\bin\Debug\net6.0\AppPeliculas.Model.dll
+D:\Gabi\Cursos\Angular + .NET\AppPeliculas\AppPeliculas.Repository\bin\Debug\net6.0\AppPeliculas.Model.pdb
+D:\Gabi\Cursos\Angular + .NET\AppPeliculas\AppPeliculas.Repository\obj\Debug\net6.0\AppPeliculas.Repository.csproj.AssemblyReference.cache
+D:\Gabi\Cursos\Angular + .NET\AppPeliculas\AppPeliculas.Repository\obj\Debug\net6.0\AppPeliculas.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gabi\Cursos\Angular + .NET\AppPeliculas\AppPeliculas.Repository\obj\Debug\net6.0\AppPeliculas.Repository.AssemblyInfoInputs.cache
+D:\Gabi\Cursos\Angular + .NET\AppPeliculas\AppPeliculas.Repository\obj\Debug\net6.0\AppPeliculas.Repository.AssemblyInfo.cs
+D:\Gabi\Cursos\Angular + .NET\AppPeliculas\AppPeliculas.Repository\obj\Debug\net6.0\AppPeliculas.Repository.csproj.CoreCompileInputs.cache
+D:\Gabi\Cursos\Angular + .NET\AppPeliculas\AppPeliculas.Repository\obj\Debug\net6.0\AppPeliculas.Repository.csproj.CopyComplete
+D:\Gabi\Cursos\Angular + .NET\AppPeliculas\AppPeliculas.Repository\obj\Debug\net6.0\AppPeliculas.Repository.dll
+D:\Gabi\Cursos\Angular + .NET\AppPeliculas\AppPeliculas.Repository\obj\Debug\net6.0\refint\AppPeliculas.Repository.dll
+D:\Gabi\Cursos\Angular + .NET\AppPeliculas\AppPeliculas.Repository\obj\Debug\net6.0\AppPeliculas.Repository.pdb
+D:\Gabi\Cursos\Angular + .NET\AppPeliculas\AppPeliculas.Repository\obj\Debug\net6.0\ref\AppPeliculas.Repository.dll
